@@ -23,8 +23,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ### STEP 3 :
 
--Test those routes using any test tool like PostMan
-<BR>
+-   Test those routes using any test tool like PostMan
+    <BR>
 
 # LICENSE
 
