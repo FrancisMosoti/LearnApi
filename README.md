@@ -4,7 +4,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 # Learning to Create REST Api in Laravel
 
-## How to learn this project
+## How to run this project
 
 ### STEP 1 :
 
